@@ -12,17 +12,21 @@ These are skills for [Claude](https://claude.ai) — small, precise prompts that
 
 ## The Problem These Skills Exist For
 
-Most AI advice given to senior executives is optimised for the advisor's legibility, not the executive's clarity. It simplifies what is genuinely complex, and complicates what is actually simple.
-
 The result is a specific kind of confusion that is hard to name out loud:
 
-- You've seen enough AI demos to be skeptical, but not enough deployed AI to know what skepticism is warranted
-- Your board wants an AI strategy, but nobody in the room has defined what that means operationally
-- Your teams are divided — some are genuinely ahead, some are performing readiness — and you can't tell which is which
+- You've seen enough AI demos to be skeptical, but not enough deployed AI
+  to know what skepticism is warranted
+- Your board wants an AI strategy, but nobody in the room has defined what
+  that means operationally  
+- Your teams are divided — some are genuinely ahead, some are performing
+  readiness — and you can't tell which is which
 - Vendors are presenting solutions to problems you haven't confirmed you have
-- You're being asked to make commitments on a timeline that doesn't match your organisation's actual capacity to absorb change
+- You're being asked to make commitments on a timeline that doesn't match
+  your organisation's actual capacity to absorb change
 
-These skills won't give you an AI strategy. They'll help you **think clearly about yours**.
+These skills are for the executive who is frustrated by that confusion. They won't tell you to adopt AI faster. Some of them will tell you why you're moving too fast. All of them will tell you what is actually in front of you.
+
+That is what most AI advice for executives is not designed to do.
 
 ---
 
